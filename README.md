@@ -56,5 +56,5 @@ Most AI dashboards send sensitive data to the cloud. **AgenticSaaS** is built wi
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/AgenticSaaS.git
+   git clone [https://github.com/](https://github.com/)salonichitre/AgenticSaaS.git
    cd AgenticSaaS
