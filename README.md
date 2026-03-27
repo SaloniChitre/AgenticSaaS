@@ -1,7 +1,5 @@
-# AgenticSaaS
-🚀 A Privacy-First AI Business Analyst using Llama 3 &amp; LangChain. Transforms natural language into SQL queries and autonomous Python/Plotly visualizations. Local-first architecture via Ollama &amp; PostgreSQL. 📊🧠
-
 # AgenticSaaS: Privacy-First Autonomous Business Intelligence 🚀
+🚀 A Privacy-First AI Business Analyst using Llama 3 &amp; LangChain. Transforms natural language into SQL queries and autonomous Python/Plotly visualizations. Local-first architecture via Ollama &amp; PostgreSQL. 📊🧠
 
 **AgenticSaaS** is an intelligent hub that transforms natural language questions into complex data insights. Built with **Llama 3** and **LangChain**, it features a **ReAct (Reason + Act)** agent that autonomously decides whether to query a PostgreSQL database or execute Python code to generate real-time visualizations.
 
